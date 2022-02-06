@@ -6,6 +6,9 @@
   <component name="ChangeListManager">
     <list default="true" id="c520d6f5-e307-439e-afa3-e915ea1dc194" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/composer.json" beforeDir="false" afterPath="$PROJECT_DIR$/composer.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/composer.lock" beforeDir="false" afterPath="$PROJECT_DIR$/composer.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/packages/security.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/config/packages/security.yaml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -190,7 +193,9 @@
       <workItem from="1643581614345" duration="54000" />
       <workItem from="1643581696002" duration="751000" />
       <workItem from="1643582971016" duration="718000" />
-      <workItem from="1643664097089" duration="2170000" />
+      <workItem from="1643664097089" duration="3844000" />
+      <workItem from="1644095240761" duration="6564000" />
+      <workItem from="1644150666044" duration="13929000" />
     </task>
     <servers />
   </component>
