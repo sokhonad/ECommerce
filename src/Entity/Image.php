@@ -42,7 +42,7 @@ class Image
         return $this->produit;
     }
 
-    public function setProduit(?Product $produit): self
+    public function setProduct(?Product $produit): self
     {
         $this->produit = $produit;
 

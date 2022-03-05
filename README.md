@@ -1,2 +1,2 @@
-# ECommerce avec symfony 6
+# eCommerce avec symfony 6
 en cours de construction
