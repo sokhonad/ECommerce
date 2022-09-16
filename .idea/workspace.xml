@@ -5,11 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c520d6f5-e307-439e-afa3-e915ea1dc194" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/Service/JWTService.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Service/SendMailService.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/_partials/_flash.html.twig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/emails/register.html.twig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Controller/MainController.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/Controller/MainController.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Entity/Categorie.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/Entity/Categorie.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/_partials/_nav.html.twig" beforeDir="false" afterPath="$PROJECT_DIR$/templates/_partials/_nav.html.twig" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/main/index.html.twig" beforeDir="false" afterPath="$PROJECT_DIR$/templates/main/index.html.twig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/services.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/config/services.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Controller/RegistrationController.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/Controller/RegistrationController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Entity/User.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/Entity/User.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/base.html.twig" beforeDir="false" afterPath="$PROJECT_DIR$/templates/base.html.twig" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -235,7 +240,13 @@
       <workItem from="1646518100832" duration="6022000" />
       <workItem from="1646667675329" duration="605000" />
       <workItem from="1651595565090" duration="2859000" />
-      <workItem from="1651600501710" duration="920000" />
+      <workItem from="1651600501710" duration="2043000" />
+      <workItem from="1652690394527" duration="1420000" />
+      <workItem from="1659387770359" duration="1909000" />
+      <workItem from="1662994662171" duration="4634000" />
+      <workItem from="1663143843131" duration="2755000" />
+      <workItem from="1663251510223" duration="7145000" />
+      <workItem from="1663324446444" duration="7763000" />
     </task>
     <servers />
   </component>
